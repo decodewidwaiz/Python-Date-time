@@ -1,6 +1,7 @@
 ###pip install DateTime
 import datetime
 
+##without format
 today = datetime.date.today()
 print("Today's date is:", today)
 
